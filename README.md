@@ -1,7 +1,7 @@
 ## HelloWorld
 
 ### App Description
-`TODO://` Add app description
+Just a simple app greeting me by my name and changes color if I want to! (Specfically purple tho...)
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
