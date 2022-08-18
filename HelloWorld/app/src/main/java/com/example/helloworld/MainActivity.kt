@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
             Log.i("Ndubueze Echefu", "Tapped on button")
             // 1. Get a reference to the text view
             // 2. Set the color of the text view
-            findViewById<TextView>(R.id.textView).setTextColor(getResources().getColor(R.color.white))
+            findViewById<TextView>(R.id.textView).setTextColor(getResources().getColor(R.color.purple_500))
         }
     }
 }
