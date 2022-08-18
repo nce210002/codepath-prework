@@ -6,8 +6,6 @@ Just a simple app greeting me by my name and changes color if I want to! (Specfi
 ### App Walk-though
 <img src="https://raw.githubusercontent.com/nce210002/codepath-prework/main/ezgif.com-gif-maker.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
