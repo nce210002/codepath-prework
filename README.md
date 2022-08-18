@@ -4,7 +4,7 @@
 Just a simple app greeting me by my name and changes color if I want to! (Specfically purple tho...)
 
 ### App Walk-though
-<img src="https://cometmail-my.sharepoint.com/personal/nce210002_utdallas_edu/Documents/Senior/1st%20Semester/Intro%20to%20Mobile%20App%20Development/Week%200%20-%20Hello%20World%20Test/ezgif.com-gif-maker.gif" width=200><br>
+<img src="https://raw.githubusercontent.com/nce210002/codepath-prework/main/ezgif.com-gif-maker.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
